@@ -1,6 +1,6 @@
 {
   "name": "@sveltekitchen/sveltekitchen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A themeable Svelte 5 component library with a bundled CSS design system, a visual theme builder, and 12 page layouts.",
   "keywords": [
@@ -18,10 +18,10 @@
   "homepage": "https://sveltekitchen.net",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sveltekitchen/sveltekitchen.git"
+    "url": "https://github.com/SvelteKitchen/SvelteKitchen"
   },
   "bugs": {
-    "url": "https://github.com/sveltekitchen/sveltekitchen/issues"
+    "url": "https://github.com/SvelteKitchen/SvelteKitchen/issues"
   },
   "sideEffects": [
     "**/*.css"
